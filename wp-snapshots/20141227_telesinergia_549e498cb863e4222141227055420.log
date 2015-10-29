@@ -1,0 +1,89 @@
+********************************************************************************
+PACKAGE-LOG: 2014-12-27 05:54:29
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	0.5.10
+WORDPRESS:	4.0.1
+PHP INFO:	5.5.3-1ubuntu2.6 | SAPI: apache2handler
+SERVER:		Apache/2.4.6 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP
+MYSQLDUMP:    Is Supported
+MYSQLTIMEOUT: 5000 
+TABLES: total:18 | filtered:0 | create:18 
+FILTERED: [] 
+wp_commentmeta (0) 
+wp_comments (4) 
+wp_duplicator_packages (1) 
+wp_links (0) 
+wp_nf_objectmeta (51) 
+wp_nf_objects (3) 
+wp_nf_relationships (3) 
+wp_ninja_forms (1) 
+wp_ninja_forms_fav_fields (20) 
+wp_ninja_forms_fields (5) 
+wp_options (149) 
+wp_postmeta (676) 
+wp_posts (222) 
+wp_term_relationships (40) 
+wp_term_taxonomy (17) 
+wp_terms (17) 
+wp_usermeta (25) 
+wp_users (1) 
+SQL CREATED: 20141227_telesinergia_549e498cb863e4222141227055420_database.sql 
+SQL FILE SIZE: 344.74KB 
+SQL RUNTIME: 0.08 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /var/www/telesinenergia 
+ARCHIVE FILE: 20141227_telesinergia_549e498cb863e4222141227055420_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	47.4MB 
+STATS:	Dirs 295 | Files 2,603 | Links 0 
+SQL ADDED: 20141227_telesinergia_549e498cb863e4222141227055420_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2898
+    [filename] => /var/www/telesinenergia/wp-snapshots/tmp/20141227_telesinergia_549e498cb863e4222141227055420_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 32.29MB 
+ARCHIVE RUNTIME: 4.59 sec. 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/var/www/telesinenergia/wp-snapshots/tmp/20141227_telesinergia_549e498cb863e4222141227055420_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 344.74KB 
+Installer File: 316.9KB 
+Archive File: 32.29MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 5.62 sec.
+DONE PROCESSING => 20141227_telesinergia 2014-12-27 05:54:34
+ 
